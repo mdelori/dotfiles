@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mariedelori@outlook.com
+	name = Marie Delori
